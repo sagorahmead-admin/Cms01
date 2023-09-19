@@ -1,0 +1,12 @@
+[24-Jun-2023 04:55:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/walhazmi/public_html/it/project_2/admin/_dbconnection.php:8
+Stack trace:
+#0 /home/walhazmi/public_html/it/project_2/admin/_dbconnection.php(8): mysqli->__construct()
+#1 /home/walhazmi/public_html/it/project_2/index.php(2): require('/home/walhazmi/...')
+#2 {main}
+  thrown in /home/walhazmi/public_html/it/project_2/admin/_dbconnection.php on line 8
+[24-Jun-2023 04:55:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/walhazmi/public_html/it/project_2/admin/_dbconnection.php:8
+Stack trace:
+#0 /home/walhazmi/public_html/it/project_2/admin/_dbconnection.php(8): mysqli->__construct()
+#1 /home/walhazmi/public_html/it/project_2/index.php(2): require('/home/walhazmi/...')
+#2 {main}
+  thrown in /home/walhazmi/public_html/it/project_2/admin/_dbconnection.php on line 8

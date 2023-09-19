@@ -1,0 +1,10 @@
+#file-input-label {
+    text-align: center;
+    width: 100%;
+    display: block;
+    height: 91px;
+    margin: 0.5rem;
+    border: dashed gray;
+    background: #f2eded;
+    line-height: 6;
+}
